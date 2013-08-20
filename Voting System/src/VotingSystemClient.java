@@ -6,6 +6,7 @@ public class VotingSystemClient {
 		Voter voter= new Voter(1001, "Krishna");
 		Member member = new Member(3001, "Macroy");
 		Admin admin = new Admin("Peter", "peter");
+	System.out.println("hiiii");
 		
 	}
 
