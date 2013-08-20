@@ -16,7 +16,10 @@ public class Voter {
 	}
 
 	public String getName() {
+	System.out.println("");
 		return name;
 	}
+	
+	
 
 }
