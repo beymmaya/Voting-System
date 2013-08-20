@@ -8,6 +8,7 @@ public class Voter {
 		// TODO Auto-generated constructor stub
 		this.id= id;
 		this.name=name;
+		System.out.println("Mac");
 	}
 
 	public int getId() {
