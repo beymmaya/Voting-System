@@ -9,6 +9,7 @@ public class VotingSystemClient {
 	System.out.println("hiiii");
 	
 	System.out.println("hiiiiiiii");	
+	System.out.println("hello");
 	}
 
 }
